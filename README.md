@@ -20,7 +20,7 @@ All is now set. Run the program with
 ```
 $npm start
 ```
-Finally, open your browser and access the url you entered as ocalhost:portNumber'
+Finally, open your browser and access the url you entered as " localhost:portNumber "
 ```
 localhost:5050
 ```
